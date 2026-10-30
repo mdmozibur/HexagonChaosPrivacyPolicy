@@ -1,7 +1,3 @@
----
-title: Hexagon Chaos Privacy Policy
----
-
 # Hexagon Chaos Privacy Policy
 
 **Effective date: October 30, 2026**
