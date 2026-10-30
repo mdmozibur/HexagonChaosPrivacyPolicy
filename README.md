@@ -1,15 +1,15 @@
-# Hexagon Chaos Privacy Policy
+# Hexagon Chaos and Hexagonal Chaos Privacy Policy
 
 **Effective date: October 30, 2026**
 
-This policy covers the Hexagon Chaos puzzle game, developed by Md Mozibur Rahman, on these platforms:
+This policy covers the same puzzle game, developed by Md Mozibur Rahman, on these platforms:
 
 - **Hexagon Chaos for Windows**, available from the Microsoft Store
-- **Hexagon Chaos for Apple devices**, including iPad and Mac, available from the App Store, where it may also be listed as Hexagonal Chaos
+- **Hexagonal Chaos for Apple devices**, including iPad and Mac, available from the App Store
 
 ## Summary
 
-Hexagon Chaos does not collect, store or share any personal data. There are no accounts, ads, analytics or tracking. Your game progress stays on your device, and purchases are handled entirely by Microsoft or Apple.
+The game does not collect, store or share any personal data. There are no accounts, ads, analytics or tracking. Your game progress stays on your device, and purchases are handled entirely by Microsoft or Apple.
 
 ## Information we collect
 
@@ -28,7 +28,7 @@ This information never leaves your device through the game and we cannot see it.
 
 ## Subscriptions and payments
 
-Hexagon Chaos offers optional Premium subscriptions. Purchases are processed by the Microsoft Store on Windows and by the App Store on Apple devices. We never receive or store your payment details or your account information.
+The game offers optional Premium subscriptions. Purchases are processed by the Microsoft Store on Windows and by the App Store on Apple devices. We never receive or store your payment details or your account information.
 
 The game only asks the store whether your subscription is active, so that it can unlock Premium. The store handles your purchase under its own privacy policy:
 
@@ -49,7 +49,7 @@ Like all app developers, we may see summary statistics from Microsoft and Apple,
 
 ## Children's privacy
 
-Hexagon Chaos is suitable for all ages. Because the game collects no personal data, it collects none from children.
+The game is suitable for all ages. Because the game collects no personal data, it collects none from children.
 
 ## Your rights
 
